@@ -1,2 +1,13 @@
-# projectile-motion-simulator
-Python simulation of projectile motion using physics equation
+
+# Projectile Motion Simulator
+
+This project simulates projectile motion using Python.
+
+## Features
+- Calculates trajectory
+- Plots graph using matplotlib
+
+## Technologies Used
+- Python
+- NumPy
+- Matplotlib
